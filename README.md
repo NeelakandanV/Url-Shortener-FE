@@ -2,7 +2,7 @@
 
 ## This documentaion provides details about the Url Shortening site with user Authentication and Authorization, implemented using vite + React. This APP allows you to manage user SignUp , Login(Two step Authentication - verify with Email link) , Forgot Password , Reset Password and Delete operations.And also Create mini Urls of longer one,Updating originalUrl.The shortened Url will redirect you to the longer Url,the one you shortened.
 
-## URL - 
+## URL - https://miniurlshortener.netlify.app/
 
 ## Features:-
 ### yup and Formik - For form validations<br/>
